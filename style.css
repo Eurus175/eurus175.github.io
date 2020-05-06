@@ -1,0 +1,43 @@
+body {
+  margin: 20px;
+}
+
+img{
+  height: 130px;
+  width: 130px;
+  border-radius: 5%;
+}
+
+#header {
+  background-color: #20a5e2;
+  height: 250px;
+}
+
+#header-title{
+
+}
+
+#header-nav{
+  display: block;
+  float: right;
+  border: solid, 3px;
+  border-color: #00000;
+}
+
+#header-nav li {
+  display: inline;
+  padding-left: 20px;
+}
+
+li {
+  background-color: #20a5e2;
+}
+
+#content {
+  border-style: solid, 5px;
+}
+
+#footer {
+  background-color: #20a5e2;
+  height: 250px;
+}
