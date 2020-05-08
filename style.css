@@ -1,0 +1,100 @@
+body {
+  margin: 20px;
+}
+
+img{
+  height: 130px;
+  width: 130px;
+  border-radius: 5%;
+}
+
+#header {
+  background-color: #20a5e2;
+  height: 250px;
+}
+
+#header-title{
+padding-left: 350px;
+}
+
+#header-nav{
+  display: block;
+  float: right;
+  border: solid, 3px;
+  border-color: #00000;
+}
+
+#header-nav li {
+  display: inline;
+  padding-left: 20px;
+}
+
+li {
+  background-color: #20a5e2;
+}
+
+.my-post {
+  border-style: solid;
+  border-color: #f61009;
+  padding: 50px;
+}
+
+.bf-post {
+  border-style: solid;
+  border-color: #539555;
+  padding: 50px;
+}
+
+.corazona-post {
+  border-style: solid;
+  border-color: #e47317;
+  padding: 50px;
+}
+
+.pilou-post{
+  border-style: solid;
+  border-color: #bb70ee;
+  padding: 50px;
+}
+
+.leo-post{
+  border-style: solid;
+  border-color: #2d7aed;
+  padding: 50px;
+}
+
+.mamie-post{
+  border-style: solid;
+  border-color: #f218c9;
+  padding: 50px;
+}
+
+.abuelita-post{
+  border-style: solid;
+  border-color: #adf031;
+  padding: 50px;
+}
+
+.tio-post{
+  border-style: solid;
+  border-color: #fffc04;
+  padding: 50px;
+}
+
+#footer {
+  background-color: #20a5e2;
+  height: 200px;
+}
+
+#column{
+padding-top: 1px;
+padding-left: 20px;
+}
+
+#call-me{
+  padding: 100px;
+}
+
+#help{
+  padding: 100px;
+}
