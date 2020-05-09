@@ -9,7 +9,7 @@ img{
 }
 
 #header {
-  background-color: #20a5e2;
+  background-color: #f6bb6c;
   height: 250px;
 }
 
@@ -33,15 +33,23 @@ li {
   background-color: #20a5e2;
 }
 
+.mpost-date{
+  padding-left: 350px;
+}
+
 .my-post {
   border-style: solid;
   border-color: #f61009;
   padding: 50px;
 }
 
+#bouton{
+  background-color: #76c0d0;
+}
+
 .bf-post {
   border-style: solid;
-  border-color: #539555;
+  border-color: #89bf24;
   padding: 50px;
 }
 
@@ -71,7 +79,7 @@ li {
 
 .abuelita-post{
   border-style: solid;
-  border-color: #adf031;
+  border-color: #6166c7;
   padding: 50px;
 }
 
@@ -81,8 +89,14 @@ li {
   padding: 50px;
 }
 
+.chantal-post{
+  border-style: solid;
+  border-color: #3d5313;
+  padding: 50px;
+}
+
 #footer {
-  background-color: #20a5e2;
+  background-color: #f6bb6c;
   height: 200px;
 }
 
